@@ -1,6 +1,6 @@
 ### 🖼️ PixelCryptor
 
-PixelCryptor is a beginner-friendly Python tool for encrypting and decrypting images using simple pixel-level XOR manipulation. It is a s
+PixelCryptor is a beginner-friendly Python tool for encrypting and decrypting images using simple pixel-level XOR manipulation. 
 
 ---
 
